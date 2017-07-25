@@ -30,7 +30,11 @@
 
 
 ### Note: 
-* I set up communications between car and computer by HC05 Bluetooth.
+* Here I only provide the core program on the car model, different people will use different objects to control.
+* Here we need to operate according to your actual situation.
 * You should download the code into car in advance and make sure your car can be controled by computer's command well
 
+* I set up communications between car and computer by using HC05 Bluetooth.
+* If your objects is similer to my model_car,and need all my code.you can download another repository [NXP-K60](https://github.com/lurenlym/NXP_K60_7620image).
+* Copy all the code files in the app folder here to the corresponding NXP-K60's directory
 
